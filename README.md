@@ -4,6 +4,10 @@
 
 重写了全部代码，目前只完成设置部分，设置改成写json文件，可选文件系统LittleFS，SPIFFS，SDFS，建议使用LittleFS
 
+## 开发计划
+
+## 已经实现的功能
+
 ## 环境
 
 ESP8266 Arduino SDK 2.7.4
